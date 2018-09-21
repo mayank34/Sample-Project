@@ -8,4 +8,4 @@ EMAIL_MAIL_HOST=dubintonlysmtp.cardinalhealth.net
 EMAIL_SENDER=SERVICE_NOW_BOT@cardinalhealth.com
 INTEGRATION_EMAIL_RECIPIENTS=lakshmi.subramanian@cardinalhealth.com,mayank.mittal@cardinalhealth.com,rohan.khandelwal@cardinalhealth.com,kapil.chhabra@cardinalhealth.com,harneet.singh@cardinalhealth.com,pramod.kainthura@cardinalhealth.com,sonam.kumari@cardinalhealth.com,pramod.velagundhala@cardinalhealth.com,maneesh.gupta@cardinalhealth.com,prerana.Prabhakar@cardinalhealth.com
 NO_DATA_RECIPIENTS=mayank.mittal@cardinalhealth.com
-ERROR_RECIPIENTS=mayank.mittal@cardinalhealth.com,SERVICE_NOW_BOT@cardinalhealth.com
+ERROR_RECIPIENTS=mayank.mittal@cardinalhealth.com
